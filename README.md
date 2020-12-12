@@ -1,1 +1,1 @@
-# -hands-on-javascript
+# hands-on-javascript
